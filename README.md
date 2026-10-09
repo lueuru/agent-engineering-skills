@@ -153,6 +153,13 @@ agent-engineering-skills/
 这些教训的共同点是：**失败时不出声**。所以这几个技能的重点都不是"怎么做"，
 而是**"怎么确认自己真的做对了"**。
 
+## 相关仓库
+
+同一系列的其他技能包（各自独立，可单独使用）：
+
+- **[unity-game-localization-skills](https://github.com/lueuru/unity-game-localization-skills)** —— Unity 老游戏汉化三件套 —— DLL 层文本、资源层文本、BMFont 中文位图字体
+- **[android-apk-reverse-skills](https://github.com/lueuru/android-apk-reverse-skills)** —— Android APK 原地改造 —— dex 字符串等长替换、渠道 SDK 剥离、模拟器自动化验证
+
 ## 许可证
 
 [MIT](./LICENSE) —— 自由使用、修改、再分发，保留版权声明即可。
